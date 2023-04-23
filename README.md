@@ -1,6 +1,6 @@
 # ABOUT
 
-This app help us to see all of those Tech Jobs which is posted in many website Like Upwork, Glassdoor, Indeed, LinkedIn in a single app with includes many other Features 🚀!!.
+This app help us to see all of those Tech Jobs which is posted in many website Like Upwork, Glassdoor, Indeed, LinkedIn in a single app with includes many other Features 🚀!
 
 ## Expo Router Example
 
