@@ -6,7 +6,22 @@ It is a great React Native Job APP that collects all the information about job r
 - There is 2 sections popular jobs and nearby jobs.
 - You can directly APPLY for the jobs and can see the about section , Qualification and Responsibilities in one APP.
 
-For using the app in your mobile phone you have to download EXPO GO from playstore and paste the below link 🚀!!.
+🚀For using the app in your mobile phone you have to download EXPO GO from playstore and paste the below link !!
+
+- exp://exp.host/@anamika_rawat/Job_App?release-channel=default
+
+## ScreenShots
+
+![WhatsApp Image 2023-04-23 at 22 03 43](https://user-images.githubusercontent.com/95397876/233861104-258b0141-d7a6-435e-be9d-17ad450aab61.jpg)
+![WhatsApp Image 2023-04-23 at 22 03 44](https://user-images.githubusercontent.com/95397876/233861125-82399d1a-2175-4b5a-bfa2-da791481c99b.jpg)
+![WhatsApp Image 2023-04-23 at 22 03 44](https://user-images.githubusercontent.com/95397876/233861132-764e1424-fc58-4fab-b704-7f89608f3dd4.jpg)
+![WhatsApp Image 2023-04-23 at 22 03 44](https://user-images.githubusercontent.com/95397876/233861142-f721d903-5dd7-4c28-bfdb-1f703f439328.jpg)
+![WhatsApp Image 2023-04-23 at 22 03 45](https://user-images.githubusercontent.com/95397876/233861166-d5901e56-f461-4dd1-8fc9-5c03b76b6b30.jpg)
+![WhatsApp Image 2023-04-23 at 22 03 45](https://user-images.githubusercontent.com/95397876/233861171-c2073503-56fd-4eda-be58-f704d6bd4e46.jpg)
+![WhatsApp Image 2023-04-23 at 22 03 45](https://user-images.githubusercontent.com/95397876/233861175-9afc6145-15e5-45a4-9ab6-b1ec08e29739.jpg)
+![WhatsApp Image 2023-04-23 at 22 03 46](https://user-images.githubusercontent.com/95397876/233861188-fce1eced-3a1c-4b95-b996-0e0c8e0e1364.jpg)
+![WhatsApp Image 2023-04-23 at 22 03 47](https://user-images.githubusercontent.com/95397876/233861206-a33473e5-5b14-4570-87bc-29518ba122ba.jpg)
+![WhatsApp Image 2023-04-23 at 22 03 46](https://user-images.githubusercontent.com/95397876/233861214-8b90dbc5-3c8e-4c4f-8e18-d418d090e04e.jpg)
 
 ## Expo Router Example
 
