@@ -1,6 +1,12 @@
 # ABOUT
 
-This app help us to see all of those Tech Jobs which is posted in many website Like Upwork, Glassdoor, Indeed, LinkedIn in a single app with includes many other Features 🚀!!.
+It is a great React Native Job APP that collects all the information about job requirement from different sites and show in one place. This app help us to see all of those Tech Jobs which is posted in many website Like Upwork, Glassdoor, Indeed, LinkedIn in a single app and also includes many other interesting Features like:-
+- There is a SEARCH option to search a particular job.
+- You can do selection category wise such as full-time, part-time and contractor based.
+- There is 2 sections popular jobs and nearby jobs.
+- You can directly APPLY for the jobs and can see the about section , Qualification and Responsibilities in one APP.
+
+For using the app in your mobile phone you have to download EXPO GO from playstore and paste the below link 🚀!!.
 
 ## Expo Router Example
 
