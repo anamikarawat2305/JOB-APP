@@ -20,7 +20,7 @@ expo-cli start --tunnel
 
 ## API
 
-- [RapidAPI: JSearch]{`https://rapidapi.com/letscrape-6bRBa3QguO5/api/jsearch?utm_source=youtube.com%2FJavaScriptMastery&utm_medium=referral&utm_campaign=DevRel`}
+- [`RapidAPI: JSearch`](https://rapidapi.com/letscrape-6bRBa3QguO5/api/jsearch?utm_source=youtube.com%2FJavaScriptMastery&utm_medium=referral&utm_campaign=DevRel)
 
 ## 📝 Notes
 
