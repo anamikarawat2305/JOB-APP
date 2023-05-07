@@ -9,8 +9,6 @@ It is a great React Native Job APP that collects all the information about job r
 
 🚀For using the app in your mobile phone you have to download EXPO GO from playstore and paste the below link !!
 
-- exp://exp.host/@anamika_rawat/Job_App?release-channel=default
-
 ## ScreenShots
 
 ![WhatsApp Image 2023-04-23 at 22 03 43](https://user-images.githubusercontent.com/95397876/233861104-258b0141-d7a6-435e-be9d-17ad450aab61.jpg)
