@@ -8,6 +8,7 @@ It is a great React Native Job APP that collects all the information about job r
 - You can directly APPLY for the jobs and can see the about section , Qualification and Responsibilities in one APP.
 
 🚀For using the app in your mobile phone you have to download EXPO GO from playstore and paste the below link !!
+
 exp://exp.host/@anamika_rawat/Job_App?release-channel=default
 
 ## ScreenShots
